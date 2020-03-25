@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea8816d1-aef3-4b36-b190-306498b3b555" name="Default Changelist" comment="" />
+    <list default="true" id="ea8816d1-aef3-4b36-b190-306498b3b555" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/day1.php" beforeDir="false" afterPath="$PROJECT_DIR$/30 Days of Code/day1 : Data Types.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +15,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Zbqck5KH5jZXMdJPqN2Ela6p16" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,7 +40,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585118222283</updated>
-      <workItem from="1585118224017" duration="670000" />
+      <workItem from="1585118224017" duration="1407000" />
+      <workItem from="1585126548910" duration="2042000" />
     </task>
     <servers />
   </component>
@@ -41,6 +49,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585126973490">
+      <screen x="-516" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585126973490" />
     <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1585119088450">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
