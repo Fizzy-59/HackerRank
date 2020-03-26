@@ -5,7 +5,8 @@
 /*
  * Complete the simpleArraySum function below.
  */
-function simpleArraySum($ar) {
+function simpleArraySum($ar)
+{
 
     $sum = 0;
 
