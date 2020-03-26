@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8816d1-aef3-4b36-b190-306498b3b555" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/30 Days of Code/day2 : Operators.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/day1 : Data Types.php" beforeDir="false" afterPath="$PROJECT_DIR$/30 Days of Code/day1 : Data Types.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +19,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Zbqck5KH5jZXMdJPqN2Ela6p16" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,7 +44,7 @@
       <updated>1585118222283</updated>
       <workItem from="1585118224017" duration="1407000" />
       <workItem from="1585126548910" duration="2102000" />
-      <workItem from="1585239510531" duration="1121000" />
+      <workItem from="1585239510531" duration="2407000" />
     </task>
     <task id="LOCAL-00001" summary="30 Days of Code : Day 1">
       <created>1585130806160</created>
@@ -51,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585130806160</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="30 Days of Code : Day 1 - DONE">
+      <created>1585240761073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585240761073</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,20 +68,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="30 Days of Code : Day 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="30 Days of Code : Day 1" />
+    <MESSAGE value="30 Days of Code : Day 1 - DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="30 Days of Code : Day 1 - DONE" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585126973490">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585126973490" />
-    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1585130806011">
+    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1585240760908">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585130806011" />
-    <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1585119088450">
+    <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585240760908" />
+    <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1585240811856">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="588" y="-794" key="NewPhpFileDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585119088450" />
+    <state x="588" y="-794" key="NewPhpFileDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585240811856" />
   </component>
 </project>
