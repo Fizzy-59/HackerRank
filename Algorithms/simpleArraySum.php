@@ -1,47 +1,34 @@
 <?php
 
+// https://www.hackerrank.com/challenges/simple-array-sum/problem?h_r=internal-search
+
 /*
-* https://www.hackerrank.com/challenges/compare-the-triplets/problem
-* Complete the simpleArraySum function below.
+ * Complete the simpleArraySum function below.
  */
-function simpleArraySum($ar)
-{
-    $alice = 0;
-    $bob = 0;
+function simpleArraySum($ar) {
 
+    $sum = 0;
 
-    for ($i = 0; $i < 4; $i++)
+    foreach ($ar as $nb)
     {
-        if ($a[$i] > $b[$i])
-        {
-            $alice++;
-        }
-        elseif ($a[$i] === $b[$i])
-        {
-
-        }
-        else
-        {
-            $bob++;
-        }
+        $sum += $nb;
     }
-
-    return [$alice, $bob];
-
+    return $sum;
 }
 
 $fptr = fopen(getenv("OUTPUT_PATH"), "w");
 
-$a_temp = rtrim(fgets(STDIN));
+$stdin = fopen("php://stdin", "r");
 
-$a = array_map('intval', preg_split('/ /', $a_temp, -1, PREG_SPLIT_NO_EMPTY));
+fscanf($stdin, "%d\n", $ar_count);
 
-$b_temp = rtrim(fgets(STDIN));
+fscanf($stdin, "%[^\n]", $ar_temp);
 
-$b = array_map('intval', preg_split('/ /', $b_temp, -1, PREG_SPLIT_NO_EMPTY));
+$ar = array_map('intval', preg_split('/ /', $ar_temp, -1, PREG_SPLIT_NO_EMPTY));
 
-$result = compareTriplets($a, $b);
+$result = simpleArraySum($ar);
 
-fwrite($fptr, implode(" ", $result) . "\n");
+fwrite($fptr, $result . "\n");
 
+fclose($stdin);
 fclose($fptr);
