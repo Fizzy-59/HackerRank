@@ -8,9 +8,19 @@
  * The function accepts 2D_INTEGER_ARRAY arr as parameter.
  */
 
-function diagonalDifference($arr) {
-    // Write your code here
+function diagonalDifference($arr)
+{
+    $count = count($arr);
 
+    $diag1 = 0;
+    $diag2 = 0;
+
+    for($i=0; $i<$count; $i++)
+    {
+        $diag1 += $arr[$i][$i];
+        $diag2 += $arr[$i][$count - 1 - $i];
+    }
+    return abs($diag1 - $diag2);
 }
 
 $fptr = fopen(getenv("OUTPUT_PATH"), "w");
