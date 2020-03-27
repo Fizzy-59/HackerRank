@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8816d1-aef3-4b36-b190-306498b3b555" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/30 Days of Code/day3 : Intro to Conditional Staements.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/diagonalDifference.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30 Days of Code/Day 0 : Hello World/helloWorld.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/day1 : Data Types.php" beforeDir="false" afterPath="$PROJECT_DIR$/30 Days of Code/Day 1 : Data Types/dataTypes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/day2 : Operators.php" beforeDir="false" afterPath="$PROJECT_DIR$/30 Days of Code/Day 2 : Operators/operators.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/day3 : Intro to Conditional Staements.php" beforeDir="false" afterPath="$PROJECT_DIR$/30 Days of Code/Day 3 : Intro to Conditional Statement /introToConditionalStatement.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/aVeryBigSum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/compareTheTriplets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/diagonalDifference.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/simpleArraySum.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +39,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/30 Days of Code/Day 3 : Intro to Conditional Statement " />
+      <recent name="$PROJECT_DIR$/30 Days of Code/Day 2 : Operators" />
+      <recent name="$PROJECT_DIR$/30 Days of Code/Day 1 : Data Types" />
+      <recent name="$PROJECT_DIR$/Algorithms/Easy/Simple Array Sum" />
+      <recent name="$PROJECT_DIR$/Algorithms/Easy/Diagonal Difference" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -46,7 +61,7 @@
       <workItem from="1585118224017" duration="1407000" />
       <workItem from="1585126548910" duration="2102000" />
       <workItem from="1585239510531" duration="5296000" />
-      <workItem from="1585324230221" duration="1316000" />
+      <workItem from="1585324230221" duration="4806000" />
     </task>
     <task id="LOCAL-00001" summary="30 Days of Code : Day 1">
       <created>1585130806160</created>
@@ -83,11 +98,29 @@
       <option name="project" value="LOCAL" />
       <updated>1585244689176</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="30 Days of Code : Day 3 - DONE">
+      <created>1585325759462</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585325759462</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="30 Days of Code : Day 1" />
@@ -95,20 +128,21 @@
     <MESSAGE value="30 Days of Code : Day 2 - DONE" />
     <MESSAGE value="Simple Array Sum : DONE" />
     <MESSAGE value="A Very Big Sum : DONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="A Very Big Sum : DONE" />
+    <MESSAGE value="30 Days of Code : Day 3 - DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="30 Days of Code : Day 3 - DONE" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585126973490">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585126973490" />
-    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1585325718056">
+    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1585325759292">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585325718056" />
-    <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1585324259447">
+    <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585325759292" />
+    <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1585326578793">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="588" y="-794" key="NewPhpFileDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585324259447" />
+    <state x="588" y="-794" key="NewPhpFileDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585326578793" />
   </component>
 </project>
