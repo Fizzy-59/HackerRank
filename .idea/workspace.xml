@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8816d1-aef3-4b36-b190-306498b3b555" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/30 Days of Code/day3 : Intro to Conditional Staements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/diagonalDifference.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/aVeryBigSum.php" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/aVeryBigSum.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,8 @@
       <updated>1585118222283</updated>
       <workItem from="1585118224017" duration="1407000" />
       <workItem from="1585126548910" duration="2102000" />
-      <workItem from="1585239510531" duration="4914000" />
+      <workItem from="1585239510531" duration="5296000" />
+      <workItem from="1585324230221" duration="1316000" />
     </task>
     <task id="LOCAL-00001" summary="30 Days of Code : Day 1">
       <created>1585130806160</created>
@@ -74,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585243774575</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="A Very Big Sum : DONE">
+      <created>1585244689176</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585244689176</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,20 +94,21 @@
     <MESSAGE value="30 Days of Code : Day 1 - DONE" />
     <MESSAGE value="30 Days of Code : Day 2 - DONE" />
     <MESSAGE value="Simple Array Sum : DONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simple Array Sum : DONE" />
+    <MESSAGE value="A Very Big Sum : DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="A Very Big Sum : DONE" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585126973490">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585126973490" />
-    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1585243774375">
+    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1585325718056">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585243774375" />
-    <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1585242993839">
+    <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585325718056" />
+    <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1585324259447">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="588" y="-794" key="NewPhpFileDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585242993839" />
+    <state x="588" y="-794" key="NewPhpFileDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585324259447" />
   </component>
 </project>
