@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8816d1-aef3-4b36-b190-306498b3b555" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/Easy/4 - Diagonal Difference/Capture d’écran 2020-03-27 à 21.30.37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30 Days of Code/Day 4: Class vs Instance/30-class-vs-instance-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30 Days of Code/Day 4: Class vs Instance/classvsInstance.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,11 +35,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/30 Days of Code/Day 4: Class vs Instance" />
       <recent name="$PROJECT_DIR$/Algorithms/Easy/4 - Diagonal Difference" />
       <recent name="$PROJECT_DIR$/Algorithms/Easy/Plus Minus" />
       <recent name="$PROJECT_DIR$/30 Days of Code/Day 3 : Intro to Conditional Statement " />
       <recent name="$PROJECT_DIR$/30 Days of Code/Day 2 : Operators" />
-      <recent name="$PROJECT_DIR$/30 Days of Code/Day 1 : Data Types" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -54,7 +55,8 @@
       <workItem from="1585118224017" duration="1407000" />
       <workItem from="1585126548910" duration="2102000" />
       <workItem from="1585239510531" duration="5296000" />
-      <workItem from="1585324230221" duration="11074000" />
+      <workItem from="1585324230221" duration="12582000" />
+      <workItem from="1585401544484" duration="1799000" />
     </task>
     <task id="LOCAL-00001" summary="30 Days of Code : Day 1">
       <created>1585130806160</created>
@@ -126,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585339905875</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Diagonal Difference : add screen">
+      <created>1585341311215</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585341311215</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +146,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -152,21 +163,26 @@
     <MESSAGE value="30 Days of Code : Day 3 - DONE" />
     <MESSAGE value="Refactor" />
     <MESSAGE value="Diagonal Difference - DONE&#10;Plus Minus - WIP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Diagonal Difference - DONE&#10;Plus Minus - WIP" />
+    <MESSAGE value="Diagonal Difference : add screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diagonal Difference : add screen" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585332439167">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585332439167" />
-    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1585339905702">
+    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1585341311035">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585339905702" />
-    <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1585339759700">
+    <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585341311035" />
+    <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1585401594890">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="588" y="-794" key="NewPhpFileDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585339759700" />
+    <state x="588" y="-794" key="NewPhpFileDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585401594890" />
+    <state x="-267" y="-984" key="Vcs.Push.Dialog.v2" timestamp="1585341312594">
+      <screen x="-516" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="-267" y="-984" key="Vcs.Push.Dialog.v2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585341312594" />
     <state x="-193" y="-1109" width="670" height="676" key="search.everywhere.popup" timestamp="1585335215797">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
