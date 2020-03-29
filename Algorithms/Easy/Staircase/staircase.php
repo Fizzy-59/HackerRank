@@ -1,8 +1,17 @@
 <?php
 
 // Complete the staircase function below.
-function staircase($n) {
 
+/*
+ * (n - 1) espace et n-(n +1) dièze
+ * */
+
+function staircase($n)
+{
+    for($i = 0; $i < ($n-1); $i++)
+    {
+
+    }
 
 }
 
