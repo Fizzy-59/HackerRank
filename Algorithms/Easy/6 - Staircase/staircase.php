@@ -8,11 +8,14 @@
 
 function staircase($n)
 {
-    for($i = 0; $i < ($n-1); $i++)
+    for($i = 0; $i < $n; $i++)
     {
-
+        for($j = 0; $j < $n; $j++ )
+        {
+            echo $i < ($n - $j - 1) ? " " : "#";
+        }
+        echo "\n";
     }
-
 }
 
 $stdin = fopen("php://stdin", "r");

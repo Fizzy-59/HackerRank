@@ -56,7 +56,9 @@
       <workItem from="1585239510531" duration="5296000" />
       <workItem from="1585324230221" duration="12582000" />
       <workItem from="1585401544484" duration="2717000" />
-      <workItem from="1585411602815" duration="5219000" />
+      <workItem from="1585411602815" duration="5387000" />
+      <workItem from="1585477572524" duration="1087000" />
+      <workItem from="1585499306083" duration="1603000" />
     </task>
     <task id="LOCAL-00001" summary="30 Days of Code : Day 1">
       <created>1585130806160</created>
@@ -163,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585472385758</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Staircase - WIP">
+      <created>1585474486239</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1585474486240</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +205,8 @@
     <MESSAGE value="Plus Minus - DONE" />
     <MESSAGE value="Staircaise - WIP" />
     <MESSAGE value="30 Days of Code : Day 5 - DONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="30 Days of Code : Day 5 - DONE" />
+    <MESSAGE value="Staircase - WIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Staircase - WIP" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585474427586">
@@ -204,15 +214,15 @@
     </state>
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog/-516.-1440.2560.1440/0.0.1440.900/2044.-1440.1920.1080@-516.-1440.2560.1440" timestamp="1585474427586" />
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585332439167" />
-    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1585472385632">
+    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1585474486103">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="361" y="-1205" key="CommitChangelistDialog2/-516.-1440.2560.1440/0.0.1440.900/2044.-1440.1920.1080@-516.-1440.2560.1440" timestamp="1585472385632" />
+    <state x="361" y="-1205" key="CommitChangelistDialog2/-516.-1440.2560.1440/0.0.1440.900/2044.-1440.1920.1080@-516.-1440.2560.1440" timestamp="1585474486103" />
     <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585415446672" />
-    <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1585471257751">
+    <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1585549776374">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="588" y="-794" key="NewPhpFileDialog/-516.-1440.2560.1440/0.0.1440.900/2044.-1440.1920.1080@-516.-1440.2560.1440" timestamp="1585471257751" />
+    <state x="588" y="-794" key="NewPhpFileDialog/-516.-1440.2560.1440/0.0.1440.900/2044.-1440.1920.1080@-516.-1440.2560.1440" timestamp="1585549776374" />
     <state x="588" y="-794" key="NewPhpFileDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585415414671" />
     <state x="-267" y="-984" key="Vcs.Push.Dialog.v2" timestamp="1585341312594">
       <screen x="-516" y="-1440" width="2560" height="1440" />
