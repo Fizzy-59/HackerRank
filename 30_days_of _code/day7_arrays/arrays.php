@@ -18,8 +18,6 @@ for($i=0; $i < $length; $i++)
 }
 
 
-
-
 $stdin = fopen("php://stdin", "r");
 
 fscanf($stdin, "%d\n", $n);
