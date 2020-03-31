@@ -1,5 +1,24 @@
 <?php
 
+$length = readline();
+$nb = readline();
+$nb = explode(' ', $nb);
+$arr = [];
+
+for($i=0; $i < $length; $i++)
+{
+    array_push($arr, $nb[$i]);
+}
+
+$reversed = array_reverse($arr);
+
+for($i=0; $i < $length; $i++)
+{
+    echo $reversed[$i] . ' ';
+}
+
+
+
 
 $stdin = fopen("php://stdin", "r");
 

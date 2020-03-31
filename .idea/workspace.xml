@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8816d1-aef3-4b36-b190-306498b3b555" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30_days_of _code/day7_arrays/arrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/30_days_of _code/day7_arrays/arrays.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +36,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/30_days_of _code/day7_arrays" />
       <recent name="$PROJECT_DIR$/30 Days of Code/Day 6 : Let's Review" />
       <recent name="$PROJECT_DIR$/Algorithms/Easy/Birthday Cake Candles" />
       <recent name="$PROJECT_DIR$/Algorithms/Easy/7 - Mini Max Sum" />
       <recent name="$PROJECT_DIR$/30 Days of Code/Day 5 : Loops" />
-      <recent name="$PROJECT_DIR$/Algorithms/Easy/Staircase" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -63,7 +63,7 @@
       <workItem from="1585499306083" duration="9240000" />
       <workItem from="1585573212041" duration="756000" />
       <workItem from="1585586141151" duration="1343000" />
-      <workItem from="1585667606217" duration="2299000" />
+      <workItem from="1585667606217" duration="5303000" />
     </task>
     <task id="LOCAL-00001" summary="30 Days of Code : Day 1">
       <created>1585130806160</created>
@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585576353018</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Day 6 : WIP - Day 7 : WIP">
+      <created>1585670451882</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1585670451882</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +250,8 @@
     <MESSAGE value="Mini Max Sum - DONE" />
     <MESSAGE value="Birthday Cake Candles - WIP" />
     <MESSAGE value="refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
+    <MESSAGE value="Day 6 : WIP - Day 7 : WIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 6 : WIP - Day 7 : WIP" />
   </component>
   <component name="WindowStateProjectService">
     <state x="227" y="-1059" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585668554672">
@@ -251,11 +259,11 @@
     </state>
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog/-516.-1440.2560.1440/0.0.1440.900/2044.-1440.1920.1080@-516.-1440.2560.1440" timestamp="1585474427586" />
     <state x="227" y="-1059" key="#com.intellij.execution.impl.EditConfigurationsDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585668554672" />
-    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1585670356010">
+    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1585670451756">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
     <state x="361" y="-1205" key="CommitChangelistDialog2/-516.-1440.2560.1440/0.0.1440.900/2044.-1440.1920.1080@-516.-1440.2560.1440" timestamp="1585555249432" />
-    <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585670356010" />
+    <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585670451756" />
     <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1585670387416">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
