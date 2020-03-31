@@ -8,20 +8,19 @@ while(!feof($_fp)) {
     while($word = fgets($_fp)) {
         if($cpt > 0)
         {
-            str_split($word);
-            $nb = count($word);
+            $letters = str_split(trim($word));
             $even = '';
             $odd = '';
 
-            for($i=0; $i < $nb ; $i++)
+            foreach($letters as $k => $letter)
             {
-                if ($word[$i] %2 == 0)
+                if ($k %2 == 0)
                 {
-                    $even .= $word[$i];
+                    $even .= $letter;
                 }
                 else
                 {
-                    $odd .= $word[$i];
+                    $odd .= $letter;
                 }
             }
 
