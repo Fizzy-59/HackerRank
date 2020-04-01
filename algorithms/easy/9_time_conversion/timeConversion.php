@@ -3,11 +3,9 @@
 /*
  * Complete the timeConversion function below.
  */
-function timeConversion($s) {
-    /*
-     * Write your code here.
-     */
-
+function timeConversion($s)
+{
+    return date("H:i:s", strtotime($s));
 }
 
 $fptr = fopen(getenv("OUTPUT_PATH"), "w");
