@@ -11,6 +11,7 @@ while(!feof($_fp)) {
         {
             $arr = explode(' ', $word);
 
+
             if(!empty($arr[1]))
             {
                 echo $arr[0] . '=' . $arr[1];
