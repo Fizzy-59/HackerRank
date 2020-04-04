@@ -1,9 +1,11 @@
 <?php
 
 // Complete the factorial function below.
-function factorial($n) {
+function factorial($n)
+{
+    $result =  $n * factorial($n - 1);
 
-
+    echo $result;
 }
 
 $fptr = fopen(getenv("OUTPUT_PATH"), "w");
