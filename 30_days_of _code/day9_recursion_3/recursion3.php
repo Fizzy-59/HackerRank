@@ -3,9 +3,10 @@
 // Complete the factorial function below.
 function factorial($n)
 {
-    $result =  $n * factorial($n - 1);
-
-    echo $result;
+    if($n === 0) // condition d'arret
+        return 1;
+    else
+        return $n*factorial($n-1);
 }
 
 $fptr = fopen(getenv("OUTPUT_PATH"), "w");
