@@ -12,16 +12,21 @@ function gradingStudents($grades)
 
     for($i = 0; $i < $count; $i++)
     {
-        if($grades[$i] > 38 && ($grades[$i] ‰ 5) > 3 )
+        if($grades[$i] >= 38 && ($grades[$i] % 5) >= 3 )
         {
+            if($grades[$i] % 5 == 3)
+            {
+                $grades[$i] += 2;
+            }
+            else
+            {
+                $grades[$i] += 1;
 
+            }
         }
-        else
-        {
-            echo "$grades[$i]\n";
-        }
-
     }
+
+    return $grades;
 
 }
 

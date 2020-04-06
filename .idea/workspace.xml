@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ea8816d1-aef3-4b36-b190-306498b3b555" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30_days_of _code/day10_binary_numbers/binaryNumbers.php" beforeDir="false" afterPath="$PROJECT_DIR$/30_days_of _code/day10_binary_numbers/binaryNumbers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/easy/10_grading_students/gradingStudents.php" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/easy/10_grading_students/gradingStudents.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +36,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/30_days_of _code/day11_2d_arrays" />
       <recent name="$PROJECT_DIR$/30_days_of _code/day10_binary_numbers" />
       <recent name="$PROJECT_DIR$/30_days_of _code/day9_recursion_3" />
       <recent name="$PROJECT_DIR$/algorithms/easy/10_grading_students" />
       <recent name="$PROJECT_DIR$/30_days_of _code/day8_dictionaries_and_maps" />
-      <recent name="$PROJECT_DIR$/algorithms/easy/9_time_conversion" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -70,7 +70,10 @@
       <workItem from="1585935783118" duration="2565000" />
       <workItem from="1585986682986" duration="2139000" />
       <workItem from="1586069485488" duration="216000" />
-      <workItem from="1586074242507" duration="2742000" />
+      <workItem from="1586074242507" duration="4684000" />
+      <workItem from="1586157256844" duration="52000" />
+      <workItem from="1586163926648" duration="198000" />
+      <workItem from="1586174790536" duration="293000" />
     </task>
     <task id="LOCAL-00001" summary="30 Days of Code : Day 1">
       <created>1585130806160</created>
@@ -303,7 +306,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586069565066</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Grading Student [STUCK] - Day10 : [DONE]">
+      <created>1586077944754</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1586077944754</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Grading Student [STUCK] - Day11 : [WIP]">
+      <created>1586078069728</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1586078069728</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,8 +340,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="30 Days of Code : Day 3 - DONE" />
-    <MESSAGE value="Refactor" />
     <MESSAGE value="Diagonal Difference - DONE&#10;Plus Minus - WIP" />
     <MESSAGE value="Diagonal Difference : add screen" />
     <MESSAGE value="30 Days of Code : Day4" />
@@ -348,7 +363,9 @@
     <MESSAGE value="Grading Student [WIP] - Day 9 : [WIP]" />
     <MESSAGE value="Grading Student [STUCK] - Day 9 : [STUCK] - Day10 : [WIP]" />
     <MESSAGE value="Grading Student [STUCK] - Day 9 : [DONE] - Day10 : [WIP]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Grading Student [STUCK] - Day 9 : [DONE] - Day10 : [WIP]" />
+    <MESSAGE value="Grading Student [STUCK] - Day10 : [DONE]" />
+    <MESSAGE value="Grading Student [STUCK] - Day11 : [WIP]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grading Student [STUCK] - Day11 : [WIP]" />
   </component>
   <component name="WindowStateProjectService">
     <state x="227" y="-1059" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585898900478">
@@ -356,12 +373,12 @@
     </state>
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog/-516.-1440.2560.1440/0.0.1440.900/2044.-1440.1920.1080@-516.-1440.2560.1440" timestamp="1585474427586" />
     <state x="227" y="-1059" key="#com.intellij.execution.impl.EditConfigurationsDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585898900478" />
-    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1586077944558">
+    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1586078069554">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
     <state x="361" y="-1205" key="CommitChangelistDialog2/-516.-1440.2560.1440/0.0.1440.900/2044.-1440.1920.1080@-516.-1440.2560.1440" timestamp="1585989302239" />
     <state x="493" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585752731362" />
-    <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1586077944558" />
+    <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1586078069554" />
     <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1586078016420">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
@@ -376,9 +393,9 @@
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
     <state x="-267" y="-984" key="Vcs.Push.Dialog.v2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585341312594" />
-    <state x="-193" y="-1109" width="670" height="676" key="search.everywhere.popup" timestamp="1585335215797">
+    <state x="-193" y="-1109" width="670" height="676" key="search.everywhere.popup" timestamp="1586163937137">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="-193" y="-1109" width="670" height="676" key="search.everywhere.popup/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585335215797" />
+    <state x="-193" y="-1109" width="670" height="676" key="search.everywhere.popup/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1586163937137" />
   </component>
 </project>
