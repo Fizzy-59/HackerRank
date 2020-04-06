@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ea8816d1-aef3-4b36-b190-306498b3b555" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30_days_of _code/day11_2d_arrays/2DArrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/30_days_of _code/day11_2d_arrays/2DArrays.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/easy/11_apple_and_orange/appleAndOrange.php" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/easy/11_apple_and_orange/appleAndOrange.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <workItem from="1586163926648" duration="198000" />
       <workItem from="1586174790536" duration="1583000" />
       <workItem from="1586180766016" duration="1419000" />
-      <workItem from="1586183473817" duration="1234000" />
+      <workItem from="1586183473817" duration="2674000" />
     </task>
     <task id="LOCAL-00001" summary="30 Days of Code : Day 1">
       <created>1585130806160</created>
@@ -343,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586182834419</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Day11 : [WIP] - Day12 : [WIP] - Apple and Orange [WIP]">
+      <created>1586185197899</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1586185197903</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,10 +403,10 @@
     </state>
     <state x="228" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog/-516.-1440.2560.1440/0.0.1440.900/2044.-1440.1920.1080@-516.-1440.2560.1440" timestamp="1585474427586" />
     <state x="227" y="-1059" key="#com.intellij.execution.impl.EditConfigurationsDialog/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1585898900478" />
-    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1586182834248">
+    <state x="361" y="-1205" key="CommitChangelistDialog2" timestamp="1586185197695">
       <screen x="-516" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="361" y="-1205" key="CommitChangelistDialog2/-516.-1440.2560.1440/0.0.1440.900/2044.-1440.1920.1080@-516.-1440.2560.1440" timestamp="1586182834248" />
+    <state x="361" y="-1205" key="CommitChangelistDialog2/-516.-1440.2560.1440/0.0.1440.900/2044.-1440.1920.1080@-516.-1440.2560.1440" timestamp="1586185197695" />
     <state x="493" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585752731362" />
     <state x="361" y="-1205" key="CommitChangelistDialog2/2044.-1440.1920.1080/0.0.1440.900/-516.-1440.2560.1440@-516.-1440.2560.1440" timestamp="1586078069554" />
     <state x="588" y="-794" key="NewPhpFileDialog" timestamp="1586182779008">

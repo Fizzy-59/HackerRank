@@ -1,7 +1,18 @@
 <?php
 
 // Complete the countApplesAndOranges function below.
-function countApplesAndOranges($s, $t, $a, $b, $apples, $oranges) {
+function countApplesAndOranges($s, $t, $a, $b, $apples, $oranges)
+{
+    $house = [$s, $t];
+
+    $pommier = $a;
+    $oranger = $b;
+
+    $pomme = $apples;
+    $orange = $oranges;
+
+
+
 
 
 }
