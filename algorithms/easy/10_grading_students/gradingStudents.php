@@ -30,6 +30,8 @@ function gradingStudents($grades)
 
 }
 
+echo
+
 $fptr = fopen(getenv("OUTPUT_PATH"), "w");
 
 $grades_count = intval(trim(fgets(STDIN)));
