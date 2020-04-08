@@ -8,8 +8,35 @@ function countApplesAndOranges($s, $t, $a, $b, $apples, $oranges)
     $pommier = $a;
     $oranger = $b;
 
-    $pomme = $apples;
-    $orange = $oranges;
+    $inHouseApple = 0;
+    $inHouseOrange = 0;
+
+
+    foreach ($apples as $apple)
+    {
+        $isPomme = $pommier + ($apple);
+
+        if($isPomme >= $s && $isPomme <= $t)
+        {
+            $inHouseApple++;
+        }
+    }
+
+    foreach ($oranges as $orange)
+    {
+        $isOrange = $oranger + ($orange);
+
+        if($isOrange >= $s && $isOrange <= $t)
+        {
+            $inHouseOrange++;
+        }
+    }
+
+    echo "$inHouseApple\n$inHouseOrange";
+
+
+
+
 
 
 
