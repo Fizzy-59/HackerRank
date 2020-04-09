@@ -34,14 +34,6 @@ function countApplesAndOranges($s, $t, $a, $b, $apples, $oranges)
 
     echo "$inHouseApple\n$inHouseOrange";
 
-
-
-
-
-
-
-
-
 }
 
 $stdin = fopen("php://stdin", "r");
