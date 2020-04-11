@@ -33,12 +33,42 @@ class Student extends person
     *   scores - An array of integers denoting the Person's test scores.
     */
     // Write your constructor here
+    public function __construct($first_name, $last_name, $identification, $scores)
+    {
+        parent::__construct($first_name, $last_name, $identification);
+
+        switch ($scores)
+        {
+            case ($scores >= 90) && ($scores <= 100) :
+                $grade = 'O';
+                break;
+            case ($scores >= 80) && ($scores <= 90) :
+                $grade = 'E';
+                break;
+            case ($scores >= 70) && ($scores <= 80) :
+                $grade = 'A';
+                break;
+            case ($scores >= 55) && ($scores <= 70) :
+                $grade = 'P';
+                break;
+            case ($scores >= 40) && ($scores <= 55) :
+                $grade = 'D';
+                break;
+            case ($scores <= 40) :
+                $grade = 'T';
+                break;
+        }
+    }
 
     /*
     *   Function Name: calculate
     *   Return: A character denoting the grade.
     */
     // Write your function here
+    public function calculate()
+    {
+
+    }
 }
 
 
@@ -58,4 +88,4 @@ $student = new Student($first_name, $last_name, $id, $scores);
 
 $student->printPerson();
 
-print("Grade: {$student->calculate()}");
+print("Grade: {$student->calculate(,  ,)}");
