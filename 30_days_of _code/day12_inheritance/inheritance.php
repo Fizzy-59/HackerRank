@@ -37,27 +37,6 @@ class Student extends person
     {
         parent::__construct($first_name, $last_name, $identification);
 
-        switch ($scores)
-        {
-            case ($scores >= 90) && ($scores <= 100) :
-                $grade = 'O';
-                break;
-            case ($scores >= 80) && ($scores <= 90) :
-                $grade = 'E';
-                break;
-            case ($scores >= 70) && ($scores <= 80) :
-                $grade = 'A';
-                break;
-            case ($scores >= 55) && ($scores <= 70) :
-                $grade = 'P';
-                break;
-            case ($scores >= 40) && ($scores <= 55) :
-                $grade = 'D';
-                break;
-            case ($scores <= 40) :
-                $grade = 'T';
-                break;
-        }
     }
 
     /*
@@ -67,6 +46,36 @@ class Student extends person
     // Write your function here
     public function calculate()
     {
+        $count = count($scores);
+
+        for($i = 0; $i < $count; $i++)
+        {
+            $total += $scores[$i];
+        }
+
+        $average = ($total / $count);
+
+        switch ($average)
+        {
+            case ($average >= 90) && ($average <= 100) :
+                $grade = 'O';
+                break;
+            case ($average >= 80) && ($average <= 90) :
+                $grade = 'E';
+                break;
+            case ($average >= 70) && ($average <= 80) :
+                $grade = 'A';
+                break;
+            case ($average >= 55) && ($average <= 70) :
+                $grade = 'P';
+                break;
+            case ($average >= 40) && ($average <= 55) :
+                $grade = 'D';
+                break;
+            case ($average <= 40) :
+                $grade = 'T';
+                break;
+        }
 
     }
 }
