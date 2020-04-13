@@ -36,6 +36,7 @@ class Student extends person
     public function __construct($first_name, $last_name, $identification, $scores)
     {
         parent::__construct($first_name, $last_name, $identification);
+        $scores = $this->$scores;
 
     }
 
@@ -44,9 +45,10 @@ class Student extends person
     *   Return: A character denoting the grade.
     */
     // Write your function here
-    public function calculate()
+    public function calculate($scores)
     {
         $count = count($scores);
+        $total = 0;
 
         for($i = 0; $i < $count; $i++)
         {
@@ -77,6 +79,7 @@ class Student extends person
                 break;
         }
 
+        return $grade;
     }
 }
 
@@ -97,4 +100,4 @@ $student = new Student($first_name, $last_name, $id, $scores);
 
 $student->printPerson();
 
-print("Grade: {$student->calculate(,  ,)}");
+print("Grade: {$student->calculate()}");
