@@ -16,23 +16,20 @@ abstract class Book
 
 class MyBook extends Book
 {
-    private $price;
+    protected $price;
 
-    function __construct(string $title, string $author, int $price)
+    function __construct($t, $a, $p)
     {
-        $title  = ': ' . $this->title;
-        $author = ': ' . $this->author;
-        $price  = ': ' . $price;
+        parent::__construct($t, $a);
+        $this->price = $p;
     }
 
-    function display()
+     public function display()
     {
-        // TODO: Implement display() method.
-        echo $this->title;
-        echo $this->author;
-        echo $this->price;
+        echo 'Title: ' . $this->title . 'Author: ' . $this->author . 'Price: ' . $this->price;
     }
 }
+
 
 $title=fgets(STDIN);
 $author=fgets(STDIN);
