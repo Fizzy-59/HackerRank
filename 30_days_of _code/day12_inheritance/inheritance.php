@@ -36,8 +36,7 @@ class Student extends person
     public function __construct($first_name, $last_name, $identification, $scores)
     {
         parent::__construct($first_name, $last_name, $identification);
-        $scores = $this->$scores;
-
+        $this->testScores = $scores;
     }
 
     /*
@@ -45,17 +44,18 @@ class Student extends person
     *   Return: A character denoting the grade.
     */
     // Write your function here
-    public function calculate($scores)
+    public function calculate()
     {
-        $count = count($scores);
+        $count = count( (array) $this->testScores);
         $total = 0;
 
         for($i = 0; $i < $count; $i++)
         {
-            $total += $scores[$i];
+            $total += $this->testScores[$i];
         }
 
         $average = ($total / $count);
+        $grade = '';
 
         switch ($average)
         {
